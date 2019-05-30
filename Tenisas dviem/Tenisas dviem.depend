@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559183474 source:c:\users\wildsword\desktop\programavimas\tenisas dviem\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
